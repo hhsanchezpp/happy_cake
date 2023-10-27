@@ -1,0 +1,30 @@
+.container_nav {
+    display: flex;
+    min-height: 3rem;
+    background-color: rgb(30, 28, 28);
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: center;
+    padding: 0 1rem;
+}
+.logo{
+    background-color:rgb(30, 28, 28);
+    font-size: 25px;
+    padding: 3px;
+    border-bottom-left-radius: 1rem;
+}
+.links_nav {
+    display: flex;
+    margin: 0;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}
+.container_nav a {
+    text-decoration: none;
+    color: white;
+}
+

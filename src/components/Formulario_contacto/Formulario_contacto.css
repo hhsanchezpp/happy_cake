@@ -1,0 +1,10 @@
+.btn_form {
+    width: 200px;
+    height: 60px;
+    border-radius: 2px;
+    border: 0;
+    background-color: #30703d;
+    color: rgb(195, 206, 206);
+    text-align: center ;
+
+}
